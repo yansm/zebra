@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="1024px" viewBox="0 0 360 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="360" height="1024"></rect>
+        <path d="M419.399872,328.499408 C423.810497,319.777737 432.840238,313.8 443.262879,313.8 C458.029383,313.8 470,325.798769 470,340.6 C470,346.281864 468.235984,351.55075 465.226958,355.886434 L465.337341,355.952819 C441.958028,394.926132 399.359612,421 350.685606,421 C276.853085,421 217,361.006156 217,287 C217,212.993844 276.853085,153 350.685606,153 C399.552324,153 442.295248,179.280742 465.61413,218.510701 L465.530535,218.560518 C468.354284,222.809209 470,227.911964 470,233.4 C470,248.201231 458.029383,260.2 443.262879,260.2 C432.840238,260.2 423.810497,254.222263 419.399872,245.500592 C405.355927,222.187375 379.836809,206.6 350.685606,206.6 C306.386093,206.6 270.474243,242.596306 270.474243,287 C270.474243,331.403694 306.386093,367.4 350.685606,367.4 C379.836809,367.4 405.355927,351.812625 419.399872,328.499408 Z M351.733728,327.2 C329.410313,327.2 311.313609,309.201847 311.313609,287 C311.313609,264.798153 329.410313,246.8 351.733728,246.8 C374.057143,246.8 392.153846,264.798153 392.153846,287 C392.153846,309.201847 374.057143,327.2 351.733728,327.2 Z" id="path-3"></path>
+        <filter x="-14.6%" y="-13.1%" width="129.2%" height="127.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-13" transform="translate(-360.000000, 0.000000)">
+            <g id="Group-11" transform="translate(360.000000, 0.000000)">
+                <g id="Group-24">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#F82790" xlink:href="#path-1"></use>
+                    <circle id="Oval-12" fill="#1BC2B4" mask="url(#mask-2)" cx="23.5" cy="858.5" r="96.5"></circle>
+                    <g id="Combined-Shape" mask="url(#mask-2)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#1BC2B4" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

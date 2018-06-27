@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="100px" viewBox="0 0 73 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-12" transform="translate(-1126.000000, -314.000000)" fill="#010101">
+            <g id="Group" transform="translate(1126.000000, 314.000000)">
+                <polygon id="Rectangle-2" points="73 31.5152321 2.07102141e-13 100 0 68.0753319 73 0"></polygon>
+                <polygon id="Rectangle-3" points="0 0 31.5227273 0 0 31.6666667"></polygon>
+                <polygon id="Rectangle-3" transform="translate(57.238636, 84.166667) rotate(-180.000000) translate(-57.238636, -84.166667) " points="41.4772727 68.3333333 73 68.3333333 41.4772727 100"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
