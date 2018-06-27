@@ -5,7 +5,7 @@ Simple and clear is the most concise and intuitive way to achieve effective visu
 
 Simple and clear is the most concise and intuitive way to achieve effective visual communication andcommunication, and reject all unrealistic symbolic meanings and so-called connotations.Simple and clear is the most concise and intuitive way to achieve effective visual communication andcommunication, and reject all unrealistic symbolic meanings and so-called connotations.
 
-![img](/static/blog/demo.jpg)
+![img](./static/blog/demo.jpg)
 
 Simple and clear is the most concise and intuitive way to achieve effective visual communication andcommunication, and reject all unrealistic symbolic meanings and so-called connotations.
 
